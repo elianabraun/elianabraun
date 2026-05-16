@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm here ☕
 
-<!--
-**elianabraun/elianabraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **elianabraun**, a senior engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me anything about code
+- 📚 Reading the source is the best documentation
+
+## Tech
+
+`Python` `Rails` `Ruby` `Vue` `Java`
+
+---
+
+_Cat person._
